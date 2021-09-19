@@ -390,6 +390,11 @@ section.bwt-sellrate a:hover{ background:#333; color:#fff; }
     box-shadow: 0 24px 20px rgb(0 0 0 / 25%);
 }
 
+.img-m {
+  width: 500px;
+  height: 300px;
+}
+
 /*FORMS AD BUTTONS*/
 .btn-box {
   color: white;
@@ -624,6 +629,9 @@ footer.bwt-footer p{color:#fff; font-weight:300; font-size:14px; margin:5px 0 0 
   .bwt-click-to-bottom i {
       padding: 10px 10px;
   }
+
+.img-m {
+      width: 100%;
   
   }
   
